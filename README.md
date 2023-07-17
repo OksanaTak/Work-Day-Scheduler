@@ -13,7 +13,7 @@ I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 ```
 ## Deployment
-[Live]()
+[Live](https://oksanatak.github.io/Work-Day-Scheduler/)
 ## Acceptance Criteria
 
 ```md
@@ -32,3 +32,4 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ### Screenshot
+![Image](https://github.com/OksanaTak/Work-Day-Scheduler/blob/main/Screen%20Shot%202023-07-17%20at%208.36.43%20AM.png)
